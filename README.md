@@ -9,7 +9,7 @@
 ## 🚀 About Me
 
 - 🎓 Currently studying **[BSc in Computer Science majoring in Software Engineering]**
-- 🌱 Learning: [Machine Learning,R Programming,Figma]
+- 🌱 Learning: [Machine Learning, R Programming, Figma]
 - 🧠 Interests: [System Analysis and Design, UI/UX, Artificial Intelligence, Probability and Statistical Data Analysis]
 - 💼 Open to internship and collaboration opportunities
 - 📫 How to reach me: [ainolatira@graduate.utm.my]
